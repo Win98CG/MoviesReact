@@ -1,0 +1,17 @@
+.container {
+  margin: 20px 30px 40px;
+}
+.title {
+  color: #fff;
+}
+.movie_list {
+  display: flex;
+  overflow-x: auto;
+  column-gap: 10px;
+  overflow-y: hidden;
+}
+.movie img {
+  width: 152px;
+  height: 225px;
+  object-fit: cover;
+}

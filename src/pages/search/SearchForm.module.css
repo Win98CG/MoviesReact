@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+.form {
+  background-color: white;
+  width: 500px;
+}
+.input {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 3px solid #00bbec;
+  padding: 20px;
+}
+.input input {
+  width: 100%;
+  border: none;
+  outline: none;
+}
+.icon {
+  width: 30px;
+}
+.btn {
+  text-align: end;
+  margin: 40px 20px;
+}
+.btn button {
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  color: #736c67;
+  font-weight: bold;
+  background-color: white;
+  margin-left: 10px;
+}
+.search {
+  background-color: #00bbec !important;
+  color: white !important;
+}

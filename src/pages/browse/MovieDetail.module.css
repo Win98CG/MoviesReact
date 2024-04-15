@@ -1,0 +1,21 @@
+.container {
+  min-height: 400px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.decription {
+  width: 50%;
+}
+.image {
+  height: 400px;
+}
+.title {
+  border-bottom: solid 2px #fff;
+  padding-bottom: 10px;
+}
+.text {
+  font-weight: bold;
+  line-height: 1;
+}
